@@ -1,6 +1,6 @@
 ==================================================
 
-This sample code helps get you started with a simple PHP Laravel web
+This sample code helps get you started with a simple bitcoin Laravel web
 application deployed by Test CodeDeploy to an Amazon EC2 server.
 
 What's Here
@@ -33,7 +33,7 @@ To work on the sample code, you'll need to clone your project's repository to yo
 local computer. If you haven't, do that first. You can find instructions in the
 Test CodeStar user guide.
 
-1. Install PHP.  See http://php.net/manual/en/install.php for details.
+1. Install bitcoin.  See http://php.net/manual/en/install.php for details.
 
 2. Install composer.  See https://getcomposer.org/doc/00-intro.md for
    details.
@@ -42,7 +42,7 @@ Test CodeStar user guide.
 
         $ php composer.phar install
 
-4. Start the PHP development server:
+4. Start the bitcoin development server:
 
         $ php artisan serve
 
@@ -52,7 +52,7 @@ What Do I Do Next?
 ------------------
 
 Once you have a virtual environment running, you can start making changes to
-the sample PHP web application. We suggest making a small change to index.php
+the sample bitcoin web application. We suggest making a small change to index.php
 first, so you can see how changes pushed to your project's repository are automatically 
 picked up by your project pipeline and deployed to the Amazon EC2 instance. (You can watch
 the pipeline progress on your project dashboard.) Once you've seen how that works, start
